@@ -1,4 +1,4 @@
-package org.advanced;
+package org.advanced.multithreading;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package org.advanced;
+package org.advanced.multithreading;
 
 public class ThreadJoin {
 
